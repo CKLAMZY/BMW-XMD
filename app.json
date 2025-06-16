@@ -3,7 +3,7 @@
   "name": "BWM-XMD-QUANTUM",
   "description": "Best WhatsApp bot developed by Ibrahim Adams",
   "keywords": ["bot", "node", "baileys", "whatsapp"],
-  "logo": "",
+  "logo": "https://url.bwmxmd.online/Adams.rv04b9xq.jpg",
   "repository": "https://github.com/ekitale/maths-project",
   "success_url": "/",
   "stack": "heroku-24",
@@ -45,7 +45,7 @@
     },
     "BOT_IMAGE": {
       "description": "Image URL for your bot menu",
-      "value": "",
+      "value": "https://url.bwmxmd.online/Adams.rv04b9xq.jpg",
       "required": false
     },
     "PUBLIC_MODE": {
