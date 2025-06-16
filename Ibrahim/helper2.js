@@ -3,8 +3,8 @@
 const NEWS_LETTER_JID = "120363285388090068@newsletter";
 const BOT_NAME = "BWM-XMD";
 const thumbnails = [
-                "https://files.catbox.moe/165qf7.jpg",
-                "https://files.catbox.moe/24j10y.jpeg"
+                "https://url.bwmxmd.online/Adams.rv04b9xq.jpg",
+                "https://url.bwmxmd.online/Adams.rv04b9xq.jpg"
             ];
 
             // Select a random thumbnail
